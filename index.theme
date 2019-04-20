@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Alek-theme-orange
+Comment=Alek theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Alek-theme-orange
+MetacityTheme=Alek.-theme-orange
+IconTheme=Alek-Suru
+CursorTheme=DMZ-White
+ButtonLayout=close,minimize,maximize:
+X-Ubuntu-UseOverlayScrollbars=true
